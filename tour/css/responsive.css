@@ -95,6 +95,11 @@
 			width: 43rem;
 		}
 	}
+	@media(max-width: 767px){
+	.latest-match-thumb video{
+			width: 21rem;
+		}
+	}
 	@media(max-width: 428px){
 	.latest-match-thumb video{
 			width: 24.8rem;

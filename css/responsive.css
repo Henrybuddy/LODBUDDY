@@ -53,13 +53,6 @@
 .my-match-bg {
 	padding-top: 110px;
 }
-
-}
-
-@media(max-width: 1440px){
-.latest-match-thumb video{
-		width: 20.6rem;
-	}
 }
 @media(max-width: 1114px){
 .latest-match-thumb video{
@@ -85,6 +78,11 @@
 @media(max-width: 800px){
 .latest-match-thumb video{
 		width: 43rem;
+	}
+}
+@media(max-width: 767px){
+.latest-match-thumb video{
+		width: 21rem;
 	}
 }
 @media(max-width: 428px){
