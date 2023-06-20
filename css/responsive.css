@@ -56,6 +56,11 @@
 
 }
 
+@media(max-width: 1440px){
+.latest-match-thumb video{
+		width: 20.6rem;
+	}
+}
 @media(max-width: 1114px){
 .latest-match-thumb video{
 		width: 30rem;

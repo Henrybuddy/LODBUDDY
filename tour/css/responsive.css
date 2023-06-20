@@ -59,6 +59,12 @@
 			width: 36.5rem;
 		}
 	}
+
+	@media(max-width: 1440px){
+		.latest-match-thumb video{
+				width: 20.6rem;
+			}
+		}
 @media(max-width: 1280px){
 	.latest-match-thumb video{
 			width: 36.5rem;
